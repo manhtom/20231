@@ -1,4 +1,4 @@
-# Computer Networks
+## Computer Networks
 
 - Khối lượng (<i>Credits</i>): 3 (3-0-1-6)
 - Học phần tiên quyết (<i>Prerequisite</i>): IT1110E
