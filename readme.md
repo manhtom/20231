@@ -23,4 +23,4 @@
 
 | Course ID | Volume | Final Scoring Percentage | Course Name |
 | ------------- | ------------- | ------------- | ------------- |
-| PE2251  | 0(0-2-0-2) | 100% | Thể dục tay không |
+| PE1015  | 0(0-2-0-2) | 100% | Thể dục tay không |
