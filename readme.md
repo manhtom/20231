@@ -16,8 +16,8 @@
 
 | Course ID | Volume | Final Scoring Percentage | Course Name |
 | ------------- | ------------- | ------------- | ------------- |
-| IT2030  | 3(2-2-0-6)  | 50% | [Technical Writing and Presentation](supp/IT2030) |
-| ME3123  | 2(1-2-0-4)  | 50% | [Industrial Design](supp/ME3123) |
+| IT2030  | 3(2-2-0-6)  | 50% | [Technical Writing and Presentation](_supp/IT2030) |
+| ME3123  | 2(1-2-0-4)  | 50% | [Industrial Design](_supp/ME3123) |
 
 ## PE class
 
