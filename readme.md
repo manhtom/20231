@@ -1,5 +1,5 @@
 # 20231
-18/09/2023 - 04/02/2024 (16 wks of studying + 1 wk of midterm break + 3 wks of final break).
+18/09/2023 - 02/02/2024 (16 wks of studying + 1 wk of midterm break + 3 wks of final break).
 
 ## IT classes
 
